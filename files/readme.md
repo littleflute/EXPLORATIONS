@@ -1,3 +1,4 @@
-## [v0.0.2](https://github.com/littleflute/EXPLORATIONS/edit/master/files/readme.md) [..](..)
+## [v0.0.3](https://github.com/littleflute/EXPLORATIONS/edit/master/files/readme.md) [..](..)
 ## [1](1) [2](2) [3](3) [4](4) [5](5) [6](6) [7](7) [8](8) [9](9) [10](10)
 ## [11](11)
+## [51](51) [52](52) [53](53) [54](54) [55](55) [56](56) [57](57) [58](58) [59](59) [60](60)
