@@ -1,0 +1,258 @@
+﻿1
+00:00:00,000 --> 00:00:03,000
+On the Shoulders of Giants: Isaac Newton and Modern Science
+
+2
+00:00:12,380 --> 00:00:13,631
+This is Shirley Griffith.
+
+3
+00:00:13,659 --> 00:00:19,821
+And this is Steve Ember with the VOA Special English program EXPLORATIONS. 
+
+4
+00:00:19,996 --> 00:00:25,825
+Today we tell about one of the world's greatest scientists, Isaac Newton.
+
+5
+00:00:26,024 --> 00:00:31,302
+[Music]...
+
+6
+00:00:32,161 --> 00:00:42,995
+Much of today's science of physics is based on Newton's discovery of the three laws of motion and his theory of gravity. 
+
+7
+00:00:43,195 --> 00:00:54,056
+Newton also developed one of the most powerful tools of mathematics. It is the method we call calculus.
+
+8
+00:00:54,256 --> 00:01:08,027
+Late in his life, Newton said of his work: "If I saw further than other men, it was because I stood on the shoulders of giants. "
+
+9
+00:01:08,227 --> 00:01:19,115
+One of those giants was the great Italian scientist, Galileo. Galileo died the same year Newton was born. 
+
+10
+00:01:19,990 --> 00:01:30,069
+Another of the giants was the Polish scientist Nicholas Copernicus. He lived a hundred years before Newton.
+
+11
+00:01:30,279 --> 00:01:47,903
+Copernicus had begun a scientific revolution. It led to a completely new understanding of how the universe worked.<br> Galileo continued and expanded the work of Copernicus.<br>
+
+12
+00:01:48,102 --> 00:02:04,322
+Isaac Newton built on the ideas of these two scientists and others. He found and proved the answers for which they searched.<br><br>(MUSIC)
+
+13
+00:02:07,230 --> 00:02:15,959
+Isaac Newton was born in Woolsthorpe, England, on December twenty-fifth, sixteen forty-two.
+
+14
+00:02:16,258 --> 00:02:38,401
+He was born early. He was a small baby and very weak. No one expected him to survive. But he surprised everyone. <br>He had one of the most powerful minds in history. And he lived until he was eighty-four.
+
+15
+00:02:38,599 --> 00:02:50,118
+Newton's father died before he was born. His mother married again a few years later. She left Isaac with his grandmother.
+
+16
+00:02:50,317 --> 00:03:01,201
+<br>The boy was not a good student. Yet he liked to make things, such as kites and clocks and simple machines.
+
+17
+00:03:02,348 --> 00:03:17,225
+Newton also enjoyed finding new ways to answer questions or solve problems. <br>As a boy, for example, he decided to find a way to measure the speed of the wind.
+
+18
+00:03:17,560 --> 00:03:40,093
+On a windy day, he measured how far he could jump with the wind at his back. <br>Then he measured how far he could jump with the wind in his face. <br>From the difference between the two jumps, he made his own measure of the strength of the wind.
+
+19
+00:03:40,275 --> 00:03:52,872
+<br>Strangely, Newton became a much better student after a boy kicked him in the stomach.<br>The boy was one of the best students in the school. <br>
+
+20
+00:03:53,151 --> 00:04:06,679
+<br>Newton decided to get even by getting higher marks than the boy who kicked him. In a short time, Newton became the top student at the school.
+
+21
+00:04:06,861 --> 00:04:10,849
+Newton left school to help on the family farm.
+
+22
+00:04:11,048 --> 00:04:33,223
+<br>It soon became clear, however, that the boy was not a good farmer. <br>He spent his time solving mathematical problems, instead of taking care of the crops. <br>He spent hours visiting a bookstore in town, instead of selling his vegetables in the market.
+
+23
+00:04:33,423 --> 00:04:59,508
+<br>An uncle decided that Newton would do better as a student than as a farmer. <br>So he helped the young man enter Cambridge University to study mathematics.<br>Newton completed his university studies five years later, in sixteen sixty-five. He was twenty-two years old.
+
+24
+00:04:59,619 --> 00:05:07,348
+(MUSIC)
+
+25
+00:05:07,548 --> 00:05:29,554
+At that time, a deadly plague was spreading across England. <br>To escape the disease, Newton returned to the family farm. He did more thinking than farming. <br>In doing so, he found the answers to some of the greatest mysteries of science.
+
+26
+00:05:29,764 --> 00:05:55,177
+Newton used his great skill in mathematics to form a better understanding of the world and the universe.<br>He used methods he had learned as a boy in making things. He experimented. <br>Then he studied the results and used what he had learned to design new experiments.
+
+27
+00:05:55,286 --> 00:06:19,715
+<br>Newton's work led him to create a new method in mathematics for measuring areas curved in shape.<br>He also used it to find how much material was contained in solid objects. The method he created became known as integral calculus.
+
+28
+00:06:20,053 --> 00:06:50,101
+One day, sitting in the garden, Newton watched an apple fall from a tree. He began to wonder if the same force that pulled the apple down also kept the moon circling the Earth. Newton believed it was. And he believed it could be measured. <br><br>He called the force "gravity." He began to examine it carefully.
+
+29
+00:06:50,242 --> 00:07:12,303
+He decided that the strength of the force keeping a planet in orbit around the sun depended on two things. <br>One was the amount of mass in the planet and the sun. The other was how far apart they were.
+
+30
+00:07:12,379 --> 00:07:40,001
+Newton was able to find the exact relationship between distance and gravity. <br>He multiplied the mass of one space object by the mass of the other. <br>Then he divided that number by the square of their distance apart. The result was the strength of the gravity force that tied them to each other.
+
+31
+00:07:40,151 --> 00:08:10,161
+Newton proved his idea by measuring how much gravity force would be needed to keep the moon orbiting the Earth. <br>Then he measured the mass of the Earth and the moon, and the distance between them. <br>He found that his measurement of the gravity force produced was not the same as the force needed. But the numbers were close.
+
+32
+00:08:10,439 --> 00:08:29,700
+Newton did not tell anyone about his discovery. He put it aside to work on other ideas. <br>Later, with correct measurements of the size of the Earth, he found that the numbers were exactly the same.
+
+33
+00:08:29,831 --> 00:09:20,155
+Newton spent time studying light and colors. He used a three-sided piece of glass called a prism.<br><br>He sent a beam of sunlight through the prism. It fell on a white surface. The prism separated the beam of sunlight into the colors of a rainbow. Newton believed that all these colors -- mixed together in light -- produced the color white. He proved this by letting the beam of rainbow-colored light pass through another prism. This changed the colored light back to white light.<br>
+
+34
+00:09:20,480 --> 00:09:48,829
+ Newton's study of light led him to learn why faraway objects seen through a telescope do not seem sharp and clear. The curved glass lenses at each end of the telescope acted like prisms. They produced a circle of colored light around an object. This created an unclear picture.<br> <br>
+
+35
+00:09:49,374 --> 00:10:20,045
+A few years later, Newton built a different kind of telescope. It used a curved mirror to make faraway objects seem larger.<br><br>Light reflected from the surface of the mirror, instead of passing through a curved glass lens. Newton's reflecting telescope produced much clearer pictures than the old kind of telescope.
+
+36
+00:10:20,222 --> 00:10:25,652
+(MUSIC)
+
+37
+00:10:26,322 --> 00:10:41,897
+Years later, the British astronomer Edmund Halley visited Newton. He said he wanted Newton's help in finding an answer to a problem no one had been able to solve.
+
+38
+00:10:42,506 --> 00:10:58,483
+ The question was this: What is the path of a planet going around the sun?<br><br>Newton immediately gave Halley the answer: an egg-shaped path called an ellipse.
+
+39
+00:10:58,663 --> 00:11:12,447
+Halley was surprised. He asked for Newton's proof. Newton no longer had the papers from his earlier work. He was able to recreate them, however. 
+
+40
+00:11:13,025 --> 00:11:20,365
+He showed them to Halley. He also showed Halley all his other scientific work.<br>
+
+41
+00:11:20,846 --> 00:11:32,607
+Halley said Newton's scientific discoveries were the greatest ever made. He urged Newton to share them with the world.
+
+42
+00:11:33,291 --> 00:11:42,889
+Newton began to write a book that explained what he had done. It was published in sixteen eighty-seven.
+
+43
+00:11:43,088 --> 00:11:57,067
+ Newton called his book “The Mathematical Principles of Natural Philosophy.” The book is considered the greatest scientific work ever written.<br>
+
+44
+00:11:57,147 --> 00:12:10,456
+In his book, Newton explains the three natural laws of motion. The first law is that an object not moving remains still.
+
+45
+00:12:10,573 --> 00:12:22,692
+ And one that is moving continues to move at an unchanging speed, so long as no outside force influences it.<br><br>
+
+46
+00:12:23,036 --> 00:12:31,657
+Objects in space continue to move, because nothing exists in space to stop them.
+
+47
+00:12:31,855 --> 00:12:48,726
+Newton's second law of motion describes force. It says force equals the mass of an object, multiplied by the change in speed it produces in an object.<br>
+
+48
+00:12:48,997 --> 00:12:57,746
+<br>His third law says that for every action, there is an equal and opposite reaction.
+
+49
+00:12:57,946 --> 00:13:15,305
+ From these three laws, Newton was able to show how the universe worked. He proved it with easily understood mathematics. Scientists everywhere accepted Newton's ideas.<br>
+
+50
+00:13:15,454 --> 00:13:23,802
+<br>The leading English poet of Newton's time, Alexander Pope, honored the scientist with these words: 
+
+51
+00:13:24,000 --> 00:13:35,579
+"Nature and nature's laws lay hid in night. God said, --'Let Newton be!' - and all was light. "<br>
+
+52
+00:13:36,748 --> 00:13:42,103
+<br>(MUSIC)
+
+53
+00:13:46,347 --> 00:13:56,177
+This Special English program was written by Marilyn Christiano and Frank Beardsley. This is Shirley Griffith.
+
+54
+00:13:56,266 --> 00:14:06,353
+And this is Steve Ember. Listen again next week for another Explorations program on the Voice of America.
+
+55
+00:14:06,552 --> 00:14:18,570
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA
+
+
+56
+00:14:18,769 --> 00:14:30,288
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
+
+57
+00:14:30,488 --> 00:14:41,826
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
+
+58
+00:14:42,026 --> 00:14:44,326
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
+
+59
+00:14:44,525 --> 00:14:52,995
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
+
+60
+00:14:53,195 --> 00:14:55,495
+英语慢速听力<br>字幕制作：漂泊者乐园<br><br> by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
+
+61
+00:14:55,695 --> 00:15:00,166
+英语慢速听力<br>字幕制作：漂泊者乐园<br>
+ by littleflute <br>
+2021/1/2 in USA<br>
+更多听力内容，请关注“漂泊者乐园”公众号
